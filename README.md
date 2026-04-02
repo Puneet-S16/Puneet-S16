@@ -80,6 +80,10 @@ It is a log of deliberate growth.
   </a>
 </p>
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Puneet-S16/Puneet-S16/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## Achievements
