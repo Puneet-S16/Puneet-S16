@@ -24,77 +24,6 @@ This profile is a public record of that process.
 
 ---
 
-## Current Projects
-
-### 🚀 RescueBite — Food Waste Management System  
-A software-driven platform to reduce food wastage by connecting surplus food sources with those in need.
-
-- Tracks surplus food from restaurants/events  
-- Enables efficient redistribution  
-- Focus on sustainability and real-world impact  
-- Built as a problem-first solution  
-
-**What I learned:**
-- Thinking in systems, not just features  
-- Designing for real-world constraints  
-- Structuring scalable solutions  
-- Bridging tech with social impact  
-
----
-
-### 🛰 OrbitGuard — Intelligent Monitoring System  
-An intelligent system focused on monitoring, detection, and automated response workflows.
-
-- Designed for real-time monitoring scenarios  
-- Focus on automation and reliability  
-- Explores agent-based and intelligent workflows  
-
-**What I learned:**
-- System design fundamentals  
-- Automation thinking  
-- Breaking down complex problems into modules  
-- Designing for robustness  
-
----
-
-### 🧠 Agentic CI/CD & Self-Healing Pipeline *(Concept + Build in Progress)*  
-A next-gen CI/CD pipeline that doesn't just fail — it fixes itself.
-
-- Monitors GitHub Actions  
-- Detects failure causes using LLM reasoning  
-- Automatically suggests or creates fixes  
-- Moves toward autonomous development workflows  
-
-**What I learned:**
-- CI/CD internals  
-- Applying AI in real systems  
-- Debugging at scale  
-- Thinking like a systems engineer  
-
----
-
-### 📝 CSBS Department Website  
-A structured multi-page website for my college department.
-
-- Sections: Home, Faculty, Courses, Events, Achievements, Contact  
-- Dark theme with consistent UI  
-- Sidebar navigation with smooth interactions  
-- Currently transitioning from single-page → multi-page architecture  
-
-**What I learned:**
-- Structuring real-world web projects  
-- Maintaining design consistency across pages  
-- UI/UX thinking beyond just visuals  
-- Handling scalability in frontend
-  
-
-**What I learned:**
-- Working with APIs  
-- Async JS and promises  
-- Input handling and DOM updates  
-
----
-
 ## Philosophy
 
 Clarity over flash.  
@@ -109,13 +38,11 @@ It is a log of deliberate growth.
 ## Connect With Me
 
 <p>
-  
-  </a>
-  <a href="https://leetcode.com/u/Puneet1569/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  <a href="mailto:spuneet16j@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/puneet-singh-b0088a335" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -123,18 +50,25 @@ It is a log of deliberate growth.
 
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="45" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="45" />
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="45" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="45" />
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="45" />
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="45" />
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="45" />
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="45" />
-  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="45" />
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="45" />
-</p>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
