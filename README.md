@@ -50,5 +50,5 @@
 ---
 
 <p align="center">
-  <i><b>Under construction for greatness.<\b></i>
+  <i><b>Under construction for greatness.</b></i>
 </p>
