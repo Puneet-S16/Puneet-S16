@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Student Developer | C/C++ • Java • Web Development
+  <code>AI/ML ENTHUSIAST</code> • <code>FULL-STACK DEVELOPER</code>
 </p>
 
 ---
