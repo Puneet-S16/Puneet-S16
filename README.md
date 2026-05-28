@@ -14,14 +14,15 @@
 
 ---
 
+## person.info
+
 ```yaml
-person.info:
-  name: Puneet Singh
-  role: Computer Science Student
-  focus: DSA • Backend • Full-Stack Development
-  learning: Java • FastAPI • System Design
-  philosophy: Minimal words. Maximum work.
-  mindset: Discipline creates leverage
+name        : Puneet Singh
+role        : Computer Science Student
+focus       : DSA • Backend • Full-Stack Development
+learning    : Java • FastAPI • System Design
+philosophy  : Minimal words. Maximum work.
+mindset     : Discipline creates leverage
 ```
 
 ---
