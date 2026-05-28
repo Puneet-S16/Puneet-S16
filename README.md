@@ -1,4 +1,4 @@
-# Puneet Singh
+<h1 align="center">Puneet Singh</h1>
 
 <p align="center">
   <b>Minimal words. Maximum work.</b>
